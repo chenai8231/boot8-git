@@ -8,6 +8,6 @@ public class helloworld {
 
     @RequestMapping("hi")
     public String sayHi(){
-        return "Hello SpringBoot ";
+        return "Hello SpringBoot 项目经理 ";
     }
 }
